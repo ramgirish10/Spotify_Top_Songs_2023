@@ -59,3 +59,7 @@ To run this project, follow these steps:
 1. Ensure you have Power BI Desktop installed.
 2. Open the `Spotify Top Songs 2023.pbix` file in Power BI Desktop.
 3. Explore the dashboards and visualizations to gain insights into the top songs of 2023.
+
+## 📸 Screenshots
+Screenshot of the dashboard and visualizations to illustrate key insights and features.
+![Spotify Dashboard](https://github.com/user-attachments/assets/acc1f548-5074-47da-909e-945d4ee25121)
